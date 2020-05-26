@@ -1,0 +1,30 @@
+{
+    "name": "test",
+    "version": "0.0.1",
+    "description": "My wock",
+    "main": "app.js",
+    "dependencies": {
+      "ejs": "^2.6.1",
+      "ejs-locals": "^1.0.2",
+      "express": "^4.17.1"
+    },
+    "devDependencies": {
+      "@types/ejs-locals": "0.0.31"
+    },
+    "scripts": {
+      "test": "node app.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/ShusevA"
+    },
+  
+    "author": {
+      "name": "Alexandr",
+      "email": "shusevalexander@gmail.com",
+      "url": "https://github.com/ShusevA"
+    },
+  
+    "license": "ISC"
+  }
+  
